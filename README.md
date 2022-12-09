@@ -48,7 +48,7 @@ export TORCH_HOME=$(pwd) && export PYTHONPATH=$(pwd)
 ![](img/lama_result.PNG)
 
 ## 🖌️ Video Inpainting
-- Base Model: [](https://github.com/MCG-NKU/E2FGVI)
+- Base Model: [E2FGVI](https://github.com/MCG-NKU/E2FGVI)
 
 ### Environment Setting
 1. Git clone:
